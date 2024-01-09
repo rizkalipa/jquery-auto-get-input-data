@@ -1,4 +1,4 @@
-Jquery Currency Formatter
+Jquery Auto Get Input Data
 =========================
 
 A JQuery Script for Get Input Data
